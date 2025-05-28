@@ -20,8 +20,8 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 * [**Daniel H. Wagner Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 * [**Gartner Power of the Profession Supply Chain Awards（2024）** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
 * [**INFORMS Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/Award-Recipients/JD.com)
-* [**Finalist,Franz Edelman（2023）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award/Franz-Edelman-Laureates2/Franz-Edelman-Laureates-Class-of-2023)
-* [**Finalist,M&SOM Practice-based Research Competition（2023）** ](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
+* [**Finalist, Franz Edelman（2023）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award/Franz-Edelman-Laureates2/Franz-Edelman-Laureates-Class-of-2023)
+* [**Finalist, M&SOM Practice-based Research Competition（2023）** ](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 * [**Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2022)
 
 # Publications
