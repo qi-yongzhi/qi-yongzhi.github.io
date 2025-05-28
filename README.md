@@ -1,6 +1,7 @@
-# Biography
-
-Hello, I'm **Yongzhi Qi** (戚永志 in Chinese), Technical Director of the Supply Chain Algorithm Team at **JD.com (JINGDONG)** and a Guest Professor at the University of Hong Kong. I’m also a committee member of the Data Science and Operations Intelligence Branch of the Operations Research Society of China.
+# Yongzhi Qi
+- Technical Director of the Supply Chain Algorithm Team at **JD.com (JINGDONG)** 
+- Guest Professor at the University of Hong Kong
+- Committee member of the Data Science and Operations Intelligence Branch of the Operations Research Society of China
 
 I obtained my Ph.D. from Shandong University in 2016, then did postdoctoral research at the China Electric Power Research Institute. During this time, I also spent some time as a visiting scholar at Stanford University, focusing on optimizing water supply systems. In 2018, I joined JD.com, where I’ve been working on supply chain optimization ever since.
 
