@@ -10,12 +10,11 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 ---
 
-**Find me here:**
-
 * [**Google Scholar** ](https://scholar.google.com/citations?user=0TXdnnoAAAAJ&hl=zh-TW)
 * [**ORCID** ](https://orcid.org/0009-0004-1434-379X)
 * [**ResearchGate** ](https://www.researchgate.net/profile/Yongzhi-Qi-2)
 
+---
 # Professional Activities and Awards
 * [**Daniel H. Wagner Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 * [**Gartner Power of the Profession Supply Chain Awards（2024）** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
@@ -24,6 +23,7 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 * [**Finalist, M&SOM Practice-based Research Competition（2023）** ](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
 * [**Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2022)
 
+---
 # Publications
 
 - Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation at JD.com**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
