@@ -16,10 +16,8 @@
     {{ content }} {# This is where the specific page's content (e.g., from index.html, about.md, or a post) gets injected #}
 
     <footer class="site-footer">
-      <p class="text">
-        This site is maintained by {{ site.github.owner_name }}.<br>
-        Published with <a href="https://pages.github.com">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.
-      </p>
+      {# 你可以在这里添加你自己的页脚内容，例如版权声明等 #}
+      <p class="text">© {{ site.time | date: "%Y" }} All rights reserved.</p>
     </footer>
   </main>
 
