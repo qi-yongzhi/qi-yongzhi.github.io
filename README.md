@@ -1,6 +1,6 @@
 # Biography
 
-Hello, I'm **Yongzhi Qi** (戚永志 in Chinese), Technical Director of the Supply Chain Algorithm Team at JD.com (JINGDONG) and a Guest Professor at the University of Hong Kong. I’m also a committee member of the Data Science and Operations Intelligence Branch of the Operations Research Society of China.
+Hello, I'm **Yongzhi Qi** (戚永志 in Chinese), Technical Director of the Supply Chain Algorithm Team at **JD.com (JINGDONG)** and a Guest Professor at the University of Hong Kong. I’m also a committee member of the Data Science and Operations Intelligence Branch of the Operations Research Society of China.
 
 I obtained my Ph.D. from Shandong University in 2016, then did postdoctoral research at the China Electric Power Research Institute. During this time, I also spent some time as a visiting scholar at Stanford University, focusing on optimizing water supply systems. In 2018, I joined JD.com, where I’ve been working on supply chain optimization ever since.
 
@@ -16,6 +16,13 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 * [**ORCID** ](https://orcid.org/0009-0004-1434-379X)
 * [**ResearchGate** ](https://www.researchgate.net/profile/Yongzhi-Qi-2)
 
+# Professional Activities and Awards
+* [**Daniel H. Wagner Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
+* [**Gartner Power of the Profession™ Supply Chain Awards（2024）** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
+* [**INFORMS Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/Award-Recipients/JD.com)
+* [**Finalist,Franz Edelman（2023）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award/Franz-Edelman-Laureates2/Franz-Edelman-Laureates-Class-of-2023)
+* [**Finalist,M&SOM Practice-based Research Competition（2023）** ](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Manufacturing-and-Service-Operations-Management/M-SOM-Practice-based-Research-Competition)
+* [**Semifinalist, Gartner Power of the Profession Supply Chain Award (2022)** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2022)
 
 # Publications
 
