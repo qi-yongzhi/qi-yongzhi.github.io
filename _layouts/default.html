@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {% include head-custom.html %} {# This line might include custom head content for themes #}
+
+  {% seo %} {# This Jekyll tag handles SEO metadata like title, description, and canonical URLs #}
+</head>
+<body>
+
+  <main id="content" class="main-content" role="main">
+    {{ content }} {# This is where the specific page's content (e.g., from index.html, about.md, or a post) gets injected #}
+
+    <footer class="site-footer">
+      <p class="text">
+        This site is maintained by {{ site.github.owner_name }}.<br>
+        Published with <a href="https://pages.github.com">GitHub Pages</a> and <a href="https://jekyllrb.com/">Jekyll</a>.
+      </p>
+    </footer>
+  </main>
+
+</body>
+</html>
