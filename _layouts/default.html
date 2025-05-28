@@ -6,20 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-  {% include head-custom.html %} {# This line might include custom head content for themes #}
+  {% include head-custom.html %}
 
-  {% seo %} {# This Jekyll tag handles SEO metadata like title, description, and canonical URLs #}
+  {% seo %}
 </head>
 <body>
 
   <main id="content" class="main-content" role="main">
-    {{ content }} {# This is where the specific page's content (e.g., from index.html, about.md, or a post) gets injected #}
-
-    <footer class="site-footer">
-      {# 你可以在这里添加你自己的页脚内容，例如版权声明等 #}
-      <p class="text">© {{ site.time | date: "%Y" }} All rights reserved.</p>
-    </footer>
+    {{ content }}
   </main>
+
+  {#  <footer class="site-footer"></footer> 标签 #}
 
 </body>
 </html>
