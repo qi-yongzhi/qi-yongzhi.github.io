@@ -12,6 +12,6 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 **Find me here:**
 
-* [**Google Scholar:** ](https://scholar.google.com/citations?user=0TXdnnoAAAAJ&hl=zh-TW)
-* [**ORCID:** ](https://orcid.org/0009-0004-1434-379X)
-* [**ResearchGate:** ](https://www.researchgate.net/profile/Yongzhi-Qi-2)
+* [**Google Scholar** ](https://scholar.google.com/citations?user=0TXdnnoAAAAJ&hl=zh-TW)
+* [**ORCID** ](https://orcid.org/0009-0004-1434-379X)
+* [**ResearchGate** ](https://www.researchgate.net/profile/Yongzhi-Qi-2)
