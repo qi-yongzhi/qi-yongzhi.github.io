@@ -34,7 +34,6 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 - Lei, D., **Qi, Y.**, Liu, S., Geng, D., Zhang, J., Hu, H., & Shen, Z. J. M. (2024). **Pooling and Boosting for Demand Prediction in Retail: A Transfer Learning Approach**. *Manufacturing & Service Operations Management*.
 - Yin, J., Shi, Z., Zhang, J., Lin, X., Huang, Y., **Qi, Y.**, & Qi, W. (2024). **sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting**. *arXiv preprint arXiv:2408.09723*.
 - Lei, D., Hu, H., Geng, D., Zhang, J., **Qi, Y.**, Liu, S., & Shen, Z. J. M. (2023). **New Product Life Cycle Curve Modeling and Forecasting with Product Attributes and Promotion: A Bayesian Functional Approach**. *Production and Operations Management, 32*(2), 655–673.
-- Liu, X., Alexopoulos, C., Hu, H., Han, S., Peng, Y., & **Qi, Y.** (2023). **Deep Reinforcement Learning for Large-Scale Inventory Management**. *SSRN*.
 - Qi, M., Shi, Y., **Qi, Y.**, Ma, C., Yuan, R., Wu, D., & Shen, Z. J. (2023). **A Practical End-to-End Inventory Management Model with Deep Learning**. *Management Science, 69*(2), 759–773.
 - Chen, N., Kang, W., Kang, N., **Qi, Y.**, & Hu, H. (2022). **Order Processing Task Allocation and Scheduling for E-Order Fulfilment**. *International Journal of Production Research, 60*(13), 4253–4267.
 - Sun, Y., Shi, Z., Zhang, J., **Qi, Y.**, Hu, H., & Shen, Z. M. (2022). **Improving Accuracy Without Losing Interpretability: A ML Approach for Time Series Forecasting**. *arXiv preprint arXiv:2212.06620*.
