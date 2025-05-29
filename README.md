@@ -1,4 +1,4 @@
-# Yongzhi Qi
+# Yongzhi Qi (戚永志)
 - Technical Director of the Supply Chain Algorithm Team at **JD.com (JINGDONG)** 
 - Guest Professor at the University of Hong Kong
 - Committee member of the Data Science and Operations Intelligence Branch of the Operations Research Society of China
