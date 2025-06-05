@@ -17,6 +17,7 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 ---
 # Professional Activities and Awards
+* Associate editor for Asia-Pacific Journal of Operational Research
 * [**Daniel H. Wagner Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Daniel-H.-Wagner-Prize-for-Excellence-in-the-Practice-of-Advanced-Analytics-and-Operations-Research)
 * [**Gartner Power of the Profession Supply Chain Awards（2024）** ](https://www.gartner.com/en/supply-chain/research/power-of-the-profession-supply-chain-awards-2024)
 * [**INFORMS Prize（2024）** ](https://www.informs.org/Recognizing-Excellence/Award-Recipients/JD.com)
