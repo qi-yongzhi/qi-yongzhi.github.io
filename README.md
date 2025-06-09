@@ -28,7 +28,7 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 ---
 # Publications
 
-- Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation at JD.com**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
+- Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
 - **Qi, Y.**, Hu, H., Lei, D., Zhang, J., Shi, Z., Huang, Y., ... & Shen, Z. J. M. (2025). **TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**. *arXiv preprint arXiv:2501.15942*.
 - Chi, Y., Lei, D., **Qi, Y.**, Zhang, J., Hu, H., Zheng, L., & Shen, Z. J. M. (2024). **Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting**. *Available at SSRN 4990206*.
 - Hu, H., **Qi, Y.** \*, Lee, H. L., Shen, Z. J. M., Liu, C., Zhu, W., & Kang, N. (2024). **Supercharged by Advanced Analytics, JD.com Attains Agility, Resilience, and Shared Value Across Its Supply Chain**. *INFORMS Journal on Applied Analytics, 54*(1), 54–70.
