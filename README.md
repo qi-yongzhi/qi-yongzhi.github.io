@@ -53,3 +53,5 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 - Xia, X., **Qi, Y.**, & Liu, Y. (2013). **Variable-Speed Variable-Pitch Coordinated Control Strategy of Wind Turbine Ramping Power**. In *2013 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC)* (pp. 1–5). IEEE.
 - **Qi, Y.**, & Liu, X. (2012). **Wind-Photovoltaic-Storage System Optimal Control Scheme Based on Generation Scheduling**. In *IEEE PES Innovative Smart Grid Technologies* (pp. 1–4). IEEE.
 - **Qi, Y.**, & Liu, Y. (2012). **Finite Control on Wind Power Ramping Event**. In *2012 10th International Power & Energy Conference (IPEC)* (pp. 655–658). IEEE.
+
+ \* Corresponding Author
