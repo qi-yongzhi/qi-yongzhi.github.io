@@ -27,7 +27,7 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 ---
 # Publications
-
+- Hu, H., Wu, Y., Shi, Z., **Qi, Y.** \*, Zhang, J., Han, S., … Wang, L. (2025). **Explainable probabilistic forecasting for time series in supply chains: a latent auto-encoder approach**. International Journal of Production Research, 1–21. https://doi.org/10.1080/00207543.2025.2541860
 - Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
 - **Qi, Y.**, Hu, H., Lei, D., Zhang, J., Shi, Z., Huang, Y., ... & Shen, Z. J. M. (2025). **TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**. *arXiv preprint arXiv:2501.15942*.
 - Chi, Y., Lei, D., **Qi, Y.**, Zhang, J., Hu, H., Zheng, L., & Shen, Z. J. M. (2024). **Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting**. *Available at SSRN 4990206*.
