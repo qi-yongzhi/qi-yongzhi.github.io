@@ -27,19 +27,19 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 ---
 # Publications
-- Shen, Z. J. M., Sun, S., **Qi, Y.** \*, Hu, H., Kang, N., Zhang, J., Wang, X., & Lin, X. (2025). **JD.com Improves Fulfillment Efficiency with Data-driven Integrated Assortment Planning and Inventory Allocation**. INFORMS Journal on Applied Analytics. https://arxiv.org/abs/2509.12183
-- **Qi, Y.**, Yin, J., Zhang, J., Geng, D., Chen, Z., Hu, H., Qi, W., & Shen, Z.J. M. (2025). Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. *arXiv preprint arXiv:2509.03811*.
+- Shen, Z. J. M., Sun, S., **Qi, Y.** \*, Hu, H., Kang, N., Zhang, J., Wang, X., & Lin, X. (2025). **JD.com Improves Fulfillment Efficiency with Data-driven Integrated Assortment Planning and Inventory Allocation**. INFORMS Journal on Applied Analytics. *Available at arxiv:2509.12183*.
+- **Qi, Y.**, Yin, J., Zhang, J., Geng, D., Chen, Z., Hu, H., Qi, W., & Shen, Z.J. M. (2025). **Leveraging LLM-Based Agents for Intelligent Supply Chain Planning**. *Available at arXiv:2509.03811*.
 - Hu, H., Wu, Y., Shi, Z., **Qi, Y.** \*, Zhang, J., Han, S., … Wang, L. (2025). **Explainable probabilistic forecasting for time series in supply chains: a latent auto-encoder approach**. International Journal of Production Research, 1–21. https://doi.org/10.1080/00207543.2025.2541860
 - Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
-- **Qi, Y.**, Hu, H., Lei, D., Zhang, J., Shi, Z., Huang, Y., ... & Shen, Z. J. M. (2025). **TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**. *arXiv preprint arXiv:2501.15942*.
+- **Qi, Y.**, Hu, H., Lei, D., Zhang, J., Shi, Z., Huang, Y., ... & Shen, Z. J. M. (2025). **TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**. *Available at arXiv:2501.15942*.
 - Chi, Y., Lei, D., **Qi, Y.**, Zhang, J., Hu, H., Zheng, L., & Shen, Z. J. M. (2024). **Bridging Historical Data and Future Markets: An Optimal Transport Policy for Demand Forecasting**. *Available at SSRN 4990206*.
 - Hu, H., **Qi, Y.** \*, Lee, H. L., Shen, Z. J. M., Liu, C., Zhu, W., & Kang, N. (2024). **Supercharged by Advanced Analytics, JD.com Attains Agility, Resilience, and Shared Value Across Its Supply Chain**. *INFORMS Journal on Applied Analytics, 54*(1), 54–70.
 - Lei, D., **Qi, Y.** \* , Liu, S. \* , Geng, D., Zhang, J., Hu, H., & Shen, Z. J. M. (2024). **Pooling and Boosting for Demand Prediction in Retail: A Transfer Learning Approach**. *Manufacturing & Service Operations Management*.
-- Yin, J., Shi, Z., Zhang, J., Lin, X., Huang, Y., **Qi, Y.**, & Qi, W. (2024). **sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting**. *arXiv preprint arXiv:2408.09723*.
+- Yin, J., Shi, Z., Zhang, J., Lin, X., Huang, Y., **Qi, Y.**, & Qi, W. (2024). **sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting**. *Available at arXiv:2408.09723*.
 - Lei, D., Hu, H., Geng, D., Zhang, J., **Qi, Y.**, Liu, S., & Shen, Z. J. M. (2023). **New Product Life Cycle Curve Modeling and Forecasting with Product Attributes and Promotion: A Bayesian Functional Approach**. *Production and Operations Management, 32*(2), 655–673.
 - Qi, M., Shi, Y., **Qi, Y.**, Ma, C., Yuan, R., Wu, D., & Shen, Z. J. (2023). **A Practical End-to-End Inventory Management Model with Deep Learning**. *Management Science, 69*(2), 759–773.
 - Chen, N., Kang, W., Kang, N., **Qi, Y.**, & Hu, H. (2022). **Order Processing Task Allocation and Scheduling for E-Order Fulfilment**. *International Journal of Production Research, 60*(13), 4253–4267.
-- Sun, Y., Shi, Z., Zhang, J., **Qi, Y.**, Hu, H., & Shen, Z. M. (2022). **Improving Accuracy Without Losing Interpretability: A ML Approach for Time Series Forecasting**. *arXiv preprint arXiv:2212.06620*.
+- Sun, Y., Shi, Z., Zhang, J., **Qi, Y.**, Hu, H., & Shen, Z. M. (2022). **Improving Accuracy Without Losing Interpretability: A ML Approach for Time Series Forecasting**. *Available at arXiv:2212.06620*.
 - Wang, L., Deng, T., Shen, Z. J. M., Hu, H., & **Qi, Y.** (2022). **Digital Twin-Driven Smart Supply Chain**. *Frontiers of Engineering Management, 9*(1), 56–70.
 - Lin, X., Zhang, B., Zhang, J., **Qi, Y.**, & Hu, H. (2021). **A Practical Framework for Forecasting Stock Keeping Unit Level Seasonal Sales**. In *2021 7th International Conference on Big Data and Information Analytics (BigDIA)* (pp. 393–398). IEEE.
 - **Qi, Y.**, Huang, Y. H., Wang, W. S., Wang, Y. F., Pang, X. Y., Zhang, C., & Zhang, H. T. (2020). **A Study on Hydro-Wind-Solar Consumption Analysis Method for High Proportion of Clean Energy**. *Power System and Clean Energy, 36*(1), 55–63.
