@@ -27,7 +27,8 @@ I’ve published in journals like *Management Science*, *Production and Operatio
 
 ---
 # Publications
-- Shen, Z. J. M., Sun, S., **Qi, Y.** \*, Hu, H., … Lin, X. (2025). **JD.com Improves Fulfillment Efficiency with Data-driven Integrated Assortment Planning and Inventory Allocation**. INFORMS Journal on Applied Analytics. https://arxiv.org/abs/2509.12183
+- Shen, Z. J. M., Sun, S., **Qi, Y.** \*, Hu, H., Kang, N., Zhang, J., Wang, X., & Lin, X. (2025). **JD.com Improves Fulfillment Efficiency with Data-driven Integrated Assortment Planning and Inventory Allocation**. INFORMS Journal on Applied Analytics. https://arxiv.org/abs/2509.12183
+- **Qi, Y.**, Yin, J., Zhang, J., Geng, D., Chen, Z., Hu, H., Qi, W., & Shen, Z.J. M. (2025). Leveraging LLM-Based Agents for Intelligent Supply Chain Planning. *arXiv preprint arXiv:2509.03811*.
 - Hu, H., Wu, Y., Shi, Z., **Qi, Y.** \*, Zhang, J., Han, S., … Wang, L. (2025). **Explainable probabilistic forecasting for time series in supply chains: a latent auto-encoder approach**. International Journal of Production Research, 1–21. https://doi.org/10.1080/00207543.2025.2541860
 - Lee, H. L., Shen, Z. J. M., **Qi, Y.**, & Chen, Z. (2025). **AI-driven Supply Chain Transformation**. *Available at SSRN: https://ssrn.com/abstract=5244331*.
 - **Qi, Y.**, Hu, H., Lei, D., Zhang, J., Shi, Z., Huang, Y., ... & Shen, Z. J. M. (2025). **TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**. *arXiv preprint arXiv:2501.15942*.
